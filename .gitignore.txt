@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables (e.g. .env file for secrets)
+.env
